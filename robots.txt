@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://youtubevideodownloader.github.io/sitemap.xml
+Sitemap: https://youtubevideodownloaderhub.github.io/sitemap.xml
+
